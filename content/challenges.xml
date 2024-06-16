@@ -1,0 +1,25 @@
+<challenges version="1">
+
+<challenge playertype="0" name="ICU" id="1" endstage="11" altpath="false" startingitems="425,329" startingtrinkets="53" difficulty="1" getcurse="1" />
+  <!-- Control a big tear in the darkness with a flashlight -->
+<challenge playertype="2" name="Ring of smoke" id="2" endstage="11" altpath="true" startingitems="52,233" bigrange="true" difficulty="1" getcurse="32" />
+  <!-- Shoot bombs around you in a circle! -->
+<challenge playertype="0" name="Hereeee's Isaac!" id="3" endstage="8" startingitems="329,114"  />
+  <!-- Control a knife around the room -->
+<challenge playertype="0" name="ICU?" id="4" endstage="8" startingitems="329,358"  />
+  <!-- Similar to "ICU" - but without darkness and your tears are trickier to control -->
+<challenge playertype="0" name="The Fidget Spinner" id="5" endstage="8" startingitems="655,595,264,264,10" difficulty="1" roomfilter="2,4,7,8,12,14,15,17,20,21,22,24,29" canshoot="false" />
+  <!-- You cannot shoot, but you can use a spinning disk which spins itself and some flies that orbit you. You can also fly -->
+<challenge playertype="2" name="Dr.Pills" id="6" endstage="11" altpath="true" startingitems="534,252,75,102,195,348" startingtrinkets="44" roomfilter="8" startingpill="49" />
+  <!-- Each run is based around getting as many pills as you can, they are all positive ones! So go wild!-->
+<challenge playertype="15" name="Apollyon the Astrologer" id="7" endstage="10" altpath="false" startingitems="300,303,307" difficulty="1" />
+  <!-- Start off as Apollyon with a few astrology based items -->
+<challenge playertype="4" name="Conjurer of Milk" id="8" endstage="8" startingitems="494,561,524,559,222" difficulty="1" />
+  <!-- Your body and mind are one with the power of electrified Milk!-->
+</challenges> 
+
+
+
+
+
+

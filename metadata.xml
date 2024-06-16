@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>The Trials Of Isaac</name>
+    <directory>thetrialsofisaac</directory>
+    <id>3267010301</id>
+    <description>
+[h1]Adds thoughtfully designed, fun and tricky challenges to The Binding Of Isaac[/h1]
+
+[b]Current Challenges include:[/b]
+
+- [b] ICU [/b] - Control a big tear in the darkness with a flashlight
+
+- [b] Ring of smoke [/b] - Shoot bombs around you in a circle!
+
+- [b] Hereeee's Isaac! [/b] - Control a knife around the room
+
+- [b] ICU? - [/b] Similar to ICU - but without darkness and your tears are trickier to control
+
+- [b] The Fidget Spinner [/b] - You cannot shoot, but you can use a spinning disk which spins itself and some flies that orbit you. You can also fly
+
+- [b] Dr.Pills [/b] - Each run is based around getting as many pills as you can, they are all positive ones! So go wild!
+
+- [b] Apollyon the Astrologer [/b] - Start off as Apollyon with a few astrology based items
+
+- [b] Conjurer of Milk [/b] - Your body and mind are one with the power of electrified Milk!
+
+[h2]I am already working on adding more challenges, please leave any suggestions in the comments! :)[/h2] </description>
+    <version>1.12</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Challenges"/>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
+</metadata>
